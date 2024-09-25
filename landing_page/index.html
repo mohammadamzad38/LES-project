@@ -39,6 +39,9 @@
         margin: 0 auto;
         font-family: "IBM Plex Sans";
       }
+      .check{
+        border: solid 0.50px black;
+      }
     </style>
   </head>
   <body>
@@ -48,23 +51,27 @@
       <nav>
         <div class="container gfont flex flex-col gap-2">
           <!-- Logo & search +++ button -->
-          <div
-            class="flex flex-row justify-between items-center h-20"
-          >
+          <div class="flex flex-row justify-between items-center h-20">
             <div>
               <img src="../assets/img/Group.svg" alt="" />
             </div>
             <div class="flex flex-row gap-3">
-              <div>
+              <div class="relative">
+                <img
+                  class="absolute top-3 left-3"
+                  src="../assets/img/search.svg"
+                  alt=""
+                />
                 <input
-                  class="border h-11 w-[266px] pl-8 "
-                  
+                  class="border h-11 w-[266px] pl-10"
                   placeholder="Search"
                   type="text"
                 />
               </div>
               <div>
-                <button class="shadow-sm py-[10px] px-[18px] font-bold">Log in</button>
+                <button class="shadow-sm py-[10px] px-[18px] font-bold">
+                  Log in
+                </button>
               </div>
               <div>
                 <button class="py-[10px] px-[18px] bg-[#EE8414] font-bold">
@@ -88,9 +95,9 @@
       </nav>
       <!-- Cover banner -->
       <section
-        class="relative overflow-hidden pt-[64px] pb-[144px] bg-radient bg-blend-multiply"
+        class="relative overflow-hidden pt-[64px] pb-[144px] bg-radient bg-blend-multiply "
       >
-        <div class="section-inner">
+        <div class="section-inner ">
           <div class="absolute top-0 left-0 z-[-1] w-full">
             <img
               class="w-full"
@@ -103,27 +110,52 @@
               class="text-[#fff] text-center txtsado lg:text-7xl mb-[64px] leading-18"
             >
               We provide research-based Statistics, Data Science and Computing
-              guidance, by studying users around the world.
+              guidance, by <br />
+              studying users around the world.
             </h1>
             <div class="flex flex-row gap-8 justify-center items-center">
               <div class="py-4 px-7 bg-[#EE8414] font-bold">
-                <button >
-                  All Articles
-                </button>
+                <button>All Articles</button>
               </div>
-              <div class="py-[16px] px-[35px] bg-[#9B0014] text-white font-bold">
-                <button>
-                  Service
-                </button>
+              <div
+                class="py-[16px] px-[35px] bg-[#9B0014] text-white font-bold"
+              >
+                <button>Service</button>
               </div>
             </div>
           </div>
         </div>
       </section>
-       
     </header>
 
-    <main></main>
+    <main>
+      <!-- First content section -->
+      <section class="container relative">
+        <div class="flex flex-row absolute left-0 -bottom-24 bg-white">
+          <div class="border px-4 py-4 w-[33.33%]">
+            <p>What's new</p>
+            <h1 class="font-bold text-xl pb-8 pt-4 pl-6">
+              Evidence Based Practice – how good is the evidence?
+            </h1>
+            <img src="../assets/img/Slot → SVG.svg" alt="" />
+          </div>
+          <div class="border px-4 py-4 w-[33.33%]">
+            <p>Excitement</p>
+            <h1 class="font-bold text-xl pb-8 pt-4 pl-6">Say, “hello Data . . .”</h1>
+            <img src="../assets/img/Slot → SVG.svg" alt="" />
+          </div>
+          <div class="border px-4 py-4 w-[33.33%]">
+            <p>Attention</p>
+            <h1 class="font-bold text-xl pb-8 pt-4 pl-6">
+              Hypothesis testing: test statistic, p-value and confidence
+              interval
+            </h1>
+            <img src="../assets/img/Slot → SVG.svg" alt="" />
+          </div>
+        </div>
+        <div></div>
+      </section>
+    </main>
 
     <footer></footer>
   </body>
