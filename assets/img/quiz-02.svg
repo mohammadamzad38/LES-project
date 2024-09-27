@@ -1,0 +1,8 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="quiz-02">
+<path id="Vector" d="M32 5.33301C20.9543 5.33301 12 14.2873 12 25.333C12 31.509 14.7993 37.0309 19.1982 40.6997C21.8405 42.9034 24 45.8925 24 49.333H40C40 45.8925 42.1595 42.9034 44.8019 40.6997C49.2008 37.0309 52 31.509 52 25.333C52 14.2873 43.0456 5.33301 32 5.33301Z" stroke="white" stroke-width="2"/>
+<path id="Vector_2" d="M40 49.333H24V58.6663H40V49.333Z" stroke="white" stroke-width="2" stroke-linejoin="round"/>
+<path id="Vector_3" d="M26.6667 21.3333C26.6667 18.3878 29.0545 16 32.0001 16C34.9457 16 37.3334 18.3878 37.3334 21.3333C37.3334 22.3951 37.0233 23.3843 36.4883 24.2154C34.8945 26.6925 32.0001 28 32.0001 28V30.6667" stroke="white" stroke-width="2" stroke-linecap="square"/>
+<path id="Vector_4" d="M31.9785 37.333H32.0025" stroke="white" stroke-width="2" stroke-linecap="square" stroke-linejoin="round"/>
+</g>
+</svg>
