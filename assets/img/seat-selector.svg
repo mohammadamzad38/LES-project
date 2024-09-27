@@ -1,0 +1,10 @@
+<svg width="20" height="21" viewBox="0 0 20 21" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="seat-selector">
+<path id="Vector" d="M5.83325 15.6901V10.2734C5.83325 9.5831 5.27361 9.02344 4.58325 9.02344C3.89289 9.02344 3.33325 9.5831 3.33325 10.2734V14.0234C3.33325 14.9439 4.07944 15.6901 4.99992 15.6901H5.83325Z" stroke="#202020" stroke-width="1.25" stroke-linecap="square"/>
+<path id="Vector_2" d="M16.6667 14.0234V10.2734C16.6667 9.5831 16.1071 9.02344 15.4167 9.02344C14.7264 9.02344 14.1667 9.5831 14.1667 10.2734V15.6901H15.0001C15.9206 15.6901 16.6667 14.9439 16.6667 14.0234Z" stroke="#202020" stroke-width="1.25" stroke-linecap="square"/>
+<path id="Vector_3" d="M14.1666 12.3574H5.83325V15.6908H14.1666V12.3574Z" stroke="#202020" stroke-width="1.25" stroke-linecap="square"/>
+<path id="Vector_4" d="M12.0834 19.0238H7.91675V15.6904H12.0834V19.0238Z" stroke="#202020" stroke-width="1.25" stroke-linecap="square"/>
+<path id="Vector_5" d="M5.83325 19.0234H14.1666" stroke="#202020" stroke-width="1.25" stroke-linecap="square"/>
+<path id="Vector_6" d="M15.4166 9.02409V4.02409C15.4166 3.10361 14.6704 2.35742 13.7499 2.35742H6.24992C5.32944 2.35742 4.58325 3.10361 4.58325 4.02409V9.02409" stroke="#202020" stroke-width="1.25" stroke-linecap="square"/>
+</g>
+</svg>
